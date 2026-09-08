@@ -1,4 +1,4 @@
-# pyecsdwan
+# ecsdwan-cli
 
 A transactional CLI abstraction layer for HPE Aruba EdgeConnect SD-WAN.
 Everything you do in the Orchestrator UI — orchestrator-level (Business Intent
